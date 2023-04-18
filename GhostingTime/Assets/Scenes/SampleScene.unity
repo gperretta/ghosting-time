@@ -1050,7 +1050,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ghostRigidBody: {fileID: 1391134951}
-  ghostStrenght: 8
+  ghostStrenght: 9
   logicHandler: {fileID: 1604289514}
   gameIsOver: 0
 --- !u!61 &1391134955
@@ -1414,7 +1414,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hellfire: {fileID: 7242114725149070756, guid: af6a89768cb92450e96c884a6286154d, type: 3}
-  spawnRate: 2
+  spawnRate: 1.85
   spawnTimer: 0
 --- !u!4 &2012251379
 Transform:
